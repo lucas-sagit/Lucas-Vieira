@@ -41,5 +41,4 @@
 ---
 
 ## 📫 Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/lucas-vieira-5125a8244/))
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vieira-5125a8244/)
